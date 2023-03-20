@@ -1,2 +1,2 @@
 # travel-agent-system
-System oferuje możliwośc rezerwacji biletu samolotowego z pełnym wahlarzem możliwości.
+System oferuje możliwośc rezerwacji oraz kupna biletu samolotowego z pełnym wahlarzem możliwości.
